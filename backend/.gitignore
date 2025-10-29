@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+.python-version
+.env
+.env.*
+
+# Packaging / build
+build/
+dist/
+.eggs/
+*.egg-info/
+.installed.cfg
+pip-wheel-metadata/
+
+# Testing
+.pytest_cache/
+.tox/
+.hypothesis/
+.coverage*
+htmlcov/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Cache
+.cache/
+**/__pypackages__/
+
+# OS
+.DS_Store
+Thumbs.db
